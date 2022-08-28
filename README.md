@@ -1,7 +1,7 @@
 Olá! Eu sou o Diego Maciel 😁
 
 - 🌱 I’m currently learning JavaScript
-- 📫 Diegomaciel2019@outlook.com
+- 📫 Diego.maciel2019@outlook.com
 
 <div align="center">
   <img align="center" alt="icone-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
