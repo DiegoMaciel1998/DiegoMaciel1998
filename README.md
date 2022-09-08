@@ -1,6 +1,6 @@
 Olá! Eu sou o Diego Maciel 😁
 
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning React
 - 📫 diego.maciel2019@outlook.com
 
 <div align="center">
